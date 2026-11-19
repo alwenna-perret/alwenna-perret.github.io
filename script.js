@@ -1,9 +1,3 @@
-/* =========================================================
-   Portfolio BTS SIO SISR – script.js (commun à toutes les pages)
-   Chaque partie vérifie d'abord que l'élément existe sur la page.
-   ========================================================= */
-
-/* ---------- 1. LISTE DES PROJETS (à modifier avec tes vrais projets) ---------- */
 const projets = [
   {
     titre: "Mise en place d'un Active Directory",
